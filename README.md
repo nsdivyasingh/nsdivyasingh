@@ -1,6 +1,6 @@
 <!-- HERO IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsdivyasingh/nsdivyasingh/main/hero.webp" width="30%" alt="Divya Singh workspace aesthetic"/>
+  <img src="https://raw.githubusercontent.com/nsdivyasingh/nsdivyasingh/main/hero.jpg" width="30%" alt="Divya Singh workspace aesthetic"/>
 </p>
 
 <!-- Typing Identity -->

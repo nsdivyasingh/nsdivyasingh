@@ -6,12 +6,12 @@
 <!-- Typing Identity -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Arima&duration=2600&pause=1000&color=F7C8E0&background=0D1117&center=true&vCenter=true&width=900&lines=I'm+NS+Divya+Singh;AI+%26+ML+Engineer+in+the+making;Research-minded.+System-driven.;I+build+quietly.+I+build+to+last."
+    src="https://readme-typing-svg.demolab.com?font=Arima&duration=2000&pause=800&color=F7C8E0&background=0D1117&center=true&vCenter=true&width=900&lines=I'm+NS+Divya+Singh;"
     alt="Typing SVG"
   />
 </p>
 
-<h2 align="center">AI & ML • Full-Stack • Research-Driven Builder</h2>
+<h2 align="center">AI & ML •Web & Full-Stack • Published Researcher • 2x Hackathon Winner </h2>
 
 <p align="center">
 I’m a final-year undergraduate in <b>Artificial Intelligence and Machine Learning</b>,  
@@ -19,7 +19,7 @@ focused on building systems that hold up <i>after</i> the demo ends.
 </p>
 
 <p align="center">
-My work lives where <b>machine learning, multimodal intelligence, and web systems</b> intersect —  
+My work lives where <b>machine learning, multimodal intelligence, and web systems</b> intersect 
 designed with patience, clarity, and long-term thinking.
 </p>
 

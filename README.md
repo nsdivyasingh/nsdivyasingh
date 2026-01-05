@@ -1,6 +1,6 @@
 <!-- HERO IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsdivyasingh/nsdivyasingh/main/hero.webp" width="100%" alt="Divya Singh workspace aesthetic"/>
+  <img src="https://raw.githubusercontent.com/nsdivyasingh/nsdivyasingh/main/hero.webp" width="30%" alt="Divya Singh workspace aesthetic"/>
 </p>
 
 <!-- Typing Identity -->
@@ -70,19 +70,6 @@ Research, Is responsibility.
 <i>Tools change. Principles compound.</i>
 </p>
 </br>
-
-## 📊 GitHub 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsdivyasingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nsdivyasingh&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdivyasingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
 
 </br>
 

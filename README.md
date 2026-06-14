@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=header&text=NS%20Divya%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=header&text=NS%20Divya%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 ### AI Engineer • Full-Stack Developer • Research Author
 Building AI-powered products, workflow automation systems, multimodal intelligence platforms, and production-ready applications.
@@ -121,7 +121,7 @@ I enjoy turning complex ideas into practical applications through a combination 
 | **Architecture** | AI-Powered Workspace Management Platform                               |
 | **Impact**       | Reduced manual coordination effort by 30%+                             |
 | **Features**     | Task automation · Meeting intelligence · GitHub synchronization · RBAC |
-| **Repository**   | Private Repository and is Under-Development                            |
+| **Repository**   | Private Repository                                                     |
 
 **What it does:** FOSYS is an AI-powered workspace management platform that automates task management, meeting transcript analysis, GitHub synchronization, and engineering workflows. It converts discussions into actionable tasks and streamlines collaboration across teams.
 
@@ -141,7 +141,7 @@ I enjoy turning complex ideas into practical applications through a combination 
 | **Architecture** | Workflow-Oriented Conversational Assistant               |
 | **Features**     | Scheduling · Reminders · Memory Systems · Task Execution |
 | **Capabilities** | Context-aware interactions and workflow automation       |
-| **Repository**   | [VoxFlow AI ](https://github.com/nsdivyasingh/voxflow-ai)                                     |
+| **Repository**   | [VoxFlow AI ](https://github.com/nsdivyasingh/voxflow-ai) |
 
 **What it does:** VoxFlow AI is a conversational workflow assistant that combines LLM orchestration, vector retrieval, memory systems, and automation pipelines to support intelligent scheduling, reminders, and contextual task execution.
 
@@ -161,7 +161,7 @@ I enjoy turning complex ideas into practical applications through a combination 
 | **Architecture** | AI Workflow Orchestration Platform                             |
 | **Features**     | Revenue Analysis · Executive Reporting · Business Intelligence |
 | **Impact**       | Automated consulting and reporting workflows                   |
-| **Repository**   | [Revenue Pilot AI](https://github.com/nsdivyasingh/revenue-pilot.ai)                                          |
+| **Repository**   | [Revenue Pilot AI](https://github.com/nsdivyasingh/revenue-pilot.ai) |
 
 **What it does:** RevenuePilot AI is a multi-agent workflow automation platform that generates strategic business intelligence, automates revenue analysis, and produces executive-level reports through orchestrated AI workflows.
 
@@ -181,7 +181,7 @@ I enjoy turning complex ideas into practical applications through a combination 
 | **Accuracy**    | 92%+ Classification Accuracy                   |
 | **Domain**      | NLP · Multimodal AI                            |
 | **Features**    | OCR · Speech Recognition · Text Classification |
-| **Repository**  |[fake-news-detection](https://github.com/nsdivyasingh/fake-news-detection)|
+| **Repository** | [fake-news-detection](https://github.com/nsdivyasingh/fake-news-detection) |
 
 **What it does:** Fake News Detection System is a multimodal AI pipeline integrating Natural Language Processing, OCR, speech recognition, and LLM-powered analysis to classify misinformation across text, image, and audio-based content.
 
@@ -197,7 +197,7 @@ I enjoy turning complex ideas into practical applications through a combination 
 | **VisionAstraa Company Website**     | Official company website developed during internship with 95%+ mobile compatibility                             |
 | **AI Product Research & Evaluation** | Research and evaluation of enterprise AI systems, observability, learnability, and workflow optimization        |
  
-
+---
 ## 💼 Professional Experience
 
 ### Technology Consultant Intern — InferWorks
@@ -215,7 +215,6 @@ Working within enterprise AI initiatives focused on workflow automation, busines
 
 `Python` `FastAPI` `REST APIs` `Workflow Automation` `AI Systems` `RAG`
 
----
 
 ### Web Development Intern — VisionAstraa Startup Academy
 
@@ -235,9 +234,40 @@ Contributed to the development and deployment of production-ready web applicatio
 
 ---
 
-## 🏆 Achievements
+## 🧪 Research & Publications
 
-<div align="center">
+### Fake News Detection: An AI-Based Approach
+
+`Published in JETIR (JETIR2506313)`
+
+Research focused on leveraging multimodal AI techniques for misinformation detection by combining Natural Language Processing, Optical Character Recognition, Speech Recognition, and Large Language Models.
+
+**Focus Areas:**
+
+* Natural Language Processing
+* OCR Systems
+* Speech Recognition
+* Multimodal AI
+* Large Language Models
+
+
+### FOSYS: An AI-Based Workflow Automation System for SCRUM and Software Development Teams
+
+`🏆 Best Paper Award — IC-AISMART 2025`
+
+Research exploring AI-assisted workflow orchestration in agile software development environments through intelligent task extraction, workflow automation, and engineering productivity systems.
+
+**Focus Areas:**
+
+* Workflow Automation
+* SCRUM Intelligence
+* Software Engineering Productivity
+* AI-Assisted Project Management
+* Engineering Operations
+
+---
+
+## 🏆 Achievements
 
 | Recognition | Details |
 |---|---|
@@ -249,9 +279,9 @@ Contributed to the development and deployment of production-ready web applicatio
 | 🚀 Amazon ML Challenge | Participant |
 | ☁️ Google Cloud & NVIDIA Community | Active Community Member |
 
-</div>
+---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics and Contribution Activity
 
 <div align="center">
 
@@ -259,9 +289,7 @@ Contributed to the development and deployment of production-ready web applicatio
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nsdivyasingh&theme=tokyonight&hide_border=true&border_radius=15" />
 
----
-
-## 📈 Contribution Activity
+</div>
 
 <div align="center">
 
@@ -271,43 +299,9 @@ Contributed to the development and deployment of production-ready web applicatio
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/nsdivyasingh/nsdivyasingh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
----
-
-## 🧪 Research & Publications
-
-### Fake News Detection: An AI-Based Approach
-
-`Published in JETIR (JETIR2506313)`
-
-Research focused on leveraging multimodal AI techniques for misinformation detection by combining Natural Language Processing, Optical Character Recognition, Speech Recognition, and Large Language Models.
-
-**Research Areas:**
-
-* Natural Language Processing
-* OCR Systems
-* Speech Recognition
-* Multimodal AI
-* Large Language Models
-
----
-
-### FOSYS: An AI-Based Workflow Automation System for SCRUM and Software Development Teams
-
-`🏆 Best Paper Award — IC-AISMART 2025`
-
-Research exploring AI-assisted workflow orchestration in agile software development environments through intelligent task extraction, workflow automation, and engineering productivity systems.
-
-**Research Areas:**
-
-* Workflow Automation
-* SCRUM Intelligence
-* Software Engineering Productivity
-* AI-Assisted Project Management
-* Engineering Operations
 
 ---
 
@@ -347,18 +341,15 @@ A personal publication exploring growth, decision-making, resilience, career dev
 * *12 Lessons Before 21* — reflections on personal growth, ambition, relationships, and self-development.
 * Essays on productivity, career building, technology, and navigating early professional life.
 
-**Read Here**
-
-🔗 https://thebetterversions.wordpress.com/
+**Publication:** [The Better Versions](https://thebetterversions.wordpress.com/)
 
 ---
 
 ## 🤝 Connect
-
 <div align="center">
 
 <a href="mailto:naveensinghdivyasingh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-naveensinghdivyasingh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/n-s-divya-singh/" target="_blank">
